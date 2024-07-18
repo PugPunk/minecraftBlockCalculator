@@ -1,0 +1,15 @@
+C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\bin\Release\net8.0\minecraftBlockStackCaluclator.exe
+C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\bin\Release\net8.0\minecraftBlockStackCaluclator.deps.json
+C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\bin\Release\net8.0\minecraftBlockStackCaluclator.runtimeconfig.json
+C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\bin\Release\net8.0\minecraftBlockStackCaluclator.dll
+C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\bin\Release\net8.0\minecraftBlockStackCaluclator.pdb
+C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\obj\Release\net8.0\minecraftBlockStackCaluclator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\obj\Release\net8.0\minecraftBlockStackCaluclator.AssemblyInfoInputs.cache
+C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\obj\Release\net8.0\minecraftBlockStackCaluclator.AssemblyInfo.cs
+C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\obj\Release\net8.0\minecraftBlockStackCaluclator.csproj.CoreCompileInputs.cache
+C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\obj\Release\net8.0\minecraftBlockStackCaluclator.sourcelink.json
+C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\obj\Release\net8.0\minecraftBlockStackCaluclator.dll
+C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\obj\Release\net8.0\refint\minecraftBlockStackCaluclator.dll
+C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\obj\Release\net8.0\minecraftBlockStackCaluclator.pdb
+C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\obj\Release\net8.0\minecraftBlockStackCaluclator.genruntimeconfig.cache
+C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\obj\Release\net8.0\ref\minecraftBlockStackCaluclator.dll

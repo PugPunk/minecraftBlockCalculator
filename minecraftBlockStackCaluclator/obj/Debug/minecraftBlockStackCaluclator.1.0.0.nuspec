@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>minecraftBlockStackCaluclator</id>
+    <version>1.0.0</version>
+    <authors>minecraftBlockStackCaluclator</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="54ace9d0b658a8d5bf7065253a3151ec941effd1" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\bin\Debug\net8.0\minecraftBlockStackCaluclator.runtimeconfig.json" target="lib\net8.0\minecraftBlockStackCaluclator.runtimeconfig.json" />
+    <file src="C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\bin\Debug\net8.0\minecraftBlockStackCaluclator.dll" target="lib\net8.0\minecraftBlockStackCaluclator.dll" />
+  </files>
+</package>

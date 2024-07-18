@@ -12,3 +12,4 @@ C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCal
 C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\obj\Debug\net8.0\minecraftBlockStackCaluclator.pdb
 C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\obj\Debug\net8.0\minecraftBlockStackCaluclator.genruntimeconfig.cache
 C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\obj\Debug\net8.0\ref\minecraftBlockStackCaluclator.dll
+C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\obj\Debug\net8.0\minecraftBlockStackCaluclator.sourcelink.json

@@ -1,0 +1,5 @@
+C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\bin\Release\net8.0\publish\minecraftBlockStackCaluclator.exe
+C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\bin\Release\net8.0\publish\minecraftBlockStackCaluclator.dll
+C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\bin\Release\net8.0\publish\minecraftBlockStackCaluclator.deps.json
+C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\bin\Release\net8.0\publish\minecraftBlockStackCaluclator.runtimeconfig.json
+C:\Users\bartn\source\repos\minecraftBlockStackCaluclator\minecraftBlockStackCaluclator\bin\Release\net8.0\publish\minecraftBlockStackCaluclator.pdb
